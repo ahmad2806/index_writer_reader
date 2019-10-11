@@ -28,7 +28,7 @@ To run the program the you only need python 3.7
 
 
 
-## to work with big file, you can download zipped 1M review and put it in data_file dir after unzipping, you can use this link to download
+## To work with a huge file, you can download zipped 1M review and put it in data_file dir after unzipping, you can use this link to download
 https://drive.google.com/file/d/1fDpwPpMOzaikDln1espcynDvgBjb3s6t/view?usp=sharing
 ## dont forget to uncomment line 16 in main.py and commit line 15 in main.py  
 
