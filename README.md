@@ -1,4 +1,4 @@
-# index_writer_reader
+# Index_writer_reader
 
 Given the input file with the raw data, the code creates an index that allows efficient access to information. 
 The index will be stored on disk so that it can be used when querying different products. Therefore, the index files will remain on disk even when the program is not running.
